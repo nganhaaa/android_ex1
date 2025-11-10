@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_converter_title">Chuyển Đổi Tiền Tệ</string>
+    <string name="convert_from_label">Chuyển đổi từ:</string>
+    <string name="convert_to_label">Chuyển đổi sang:</string>
+    <string name="enter_amount_hint">Nhập số tiền</string>
+    <string name="result_hint">Kết quả</string>
+</resources>
